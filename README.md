@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+The frontend is here https://github.com/jhonkus/wave-portal-frontend
